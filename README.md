@@ -1,2 +1,2 @@
 # SocialChat
-A basic chat app built using Java
+A basic chat app built using Java.
